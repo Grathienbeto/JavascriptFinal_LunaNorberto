@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "AMAZON", 
+        "id": 1, 
+        "precioUnidad" : 400, 
+        "imagen" : "../images/amazon.png"
+    },
+    {
+        "nombre": "APPLE", 
+        "id" : 2, 
+        "precioUnidad" : 450, 
+        "imagen" : "../images/apple.png"
+    }, 
+    {
+        "nombre": "COCA COLA", 
+        "id": 3, 
+        "precioUnidad": 680, 
+        "imagen": "../images/coca-cola.png"
+    },
+    {
+        "nombre": "FORD", 
+        "id": 4, 
+        "precioUnidad": 840, 
+        "imagen": "../images/ford.png"
+    },
+    {
+        "nombre": "GOOGLE", 
+        "id": 5, 
+        "precioUnidad": 150, 
+        "imagen": "../images/google.png"
+    },
+    {
+        "nombre": "MICROSOFT", 
+        "id" : 6, 
+        "precioUnidad" : 790, 
+        "imagen": "../images/microsoft.png"
+    },
+    {
+        "nombre": "NETFLIX", 
+        "id": 7, 
+        "precioUnidad": 780, 
+        "imagen": "../images/netflix.png"
+    },
+    {
+        "nombre": "TESLA", 
+        "id": 8, 
+        "precioUnidad": 1370, 
+        "imagen": "../images/tesla.png"
+    }
+]
